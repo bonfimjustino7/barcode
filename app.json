@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "code-bar-project",
-    "slug": "code-bar-project",
+    "name": "Leitor Código Barras",
+    "slug": "code-bar-read",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,6 +20,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.appsoft.codebar",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
